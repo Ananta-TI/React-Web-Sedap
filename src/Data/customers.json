@@ -1,0 +1,220 @@
+[
+    {
+      "Customer ID": "CUST001",
+      "Customer Name": "Dione Tweedlie",
+      "Email": "dione.tweedlie@lazz.com",
+      "Phone": "374-(954)488-9771",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST999",
+      "Customer Name": "Ananta Firdaus",
+      "Email": "anantafirdaus14@gmail.com",
+      "Phone": "082170659282",
+      "Loyalty": "Master"
+    },
+    {
+      "Customer ID": "CUST002",
+      "Customer Name": "Dalton Hatherill",
+      "Email": "dalton.hatherill@centizu.com",
+      "Phone": "231-(544)896-2818",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST003",
+      "Customer Name": "Mason Cattini",
+      "Email": "mason.cattini@fivechat.com",
+      "Phone": "39-(979)617-5679",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST004",
+      "Customer Name": "Norah Couvert",
+      "Email": "norah.couvert@thoughtbeat.com",
+      "Phone": "92-(968)758-1958",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST005",
+      "Customer Name": "Nessy Kinny",
+      "Email": "nessy.kinny@avamm.com",
+      "Phone": "1-(516)240-2366",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST006",
+      "Customer Name": "Daisey Swinney",
+      "Email": "daisey.swinney@blogpad.com",
+      "Phone": "86-(833)329-4949",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST007",
+      "Customer Name": "Randie Crocetti",
+      "Email": "randie.crocetti@agivu.com",
+      "Phone": "46-(487)185-6109",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST008",
+      "Customer Name": "Whitney Delgardillo",
+      "Email": "whitney.delgardillo@zoomdog.com",
+      "Phone": "86-(124)664-6824",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST009",
+      "Customer Name": "Maridel Dangerfield",
+      "Email": "maridel.dangerfield@twitterbeat.com",
+      "Phone": "965-(428)772-4402",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST010",
+      "Customer Name": "Mathilde Harmon",
+      "Email": "mathilde.harmon@dazzlesphere.com",
+      "Phone": "63-(423)260-6268",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST011",
+      "Customer Name": "Dione Tweedlie",
+      "Email": "dione.tweedlie@lazz.com",
+      "Phone": "374-(954)488-9771",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST012",
+      "Customer Name": "Dalton Hatherill",
+      "Email": "dalton.hatherill@centizu.com",
+      "Phone": "231-(544)896-2818",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST013",
+      "Customer Name": "Mason Cattini",
+      "Email": "mason.cattini@fivechat.com",
+      "Phone": "39-(979)617-5679",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST014",
+      "Customer Name": "Norah Couvert",
+      "Email": "norah.couvert@thoughtbeat.com",
+      "Phone": "92-(968)758-1958",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST015",
+      "Customer Name": "Nessy Kinny",
+      "Email": "nessy.kinny@avamm.com",
+      "Phone": "1-(516)240-2366",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST016",
+      "Customer Name": "Daisey Swinney",
+      "Email": "daisey.swinney@blogpad.com",
+      "Phone": "86-(833)329-4949",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST017",
+      "Customer Name": "Randie Crocetti",
+      "Email": "randie.crocetti@agivu.com",
+      "Phone": "46-(487)185-6109",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST018",
+      "Customer Name": "Whitney Delgardillo",
+      "Email": "whitney.delgardillo@zoomdog.com",
+      "Phone": "86-(124)664-6824",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST019",
+      "Customer Name": "Maridel Dangerfield",
+      "Email": "maridel.dangerfield@twitterbeat.com",
+      "Phone": "965-(428)772-4402",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST020",
+      "Customer Name": "Mathilde Harmon",
+      "Email": "mathilde.harmon@dazzlesphere.com",
+      "Phone": "63-(423)260-6268",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST021",
+      "Customer Name": "Dione Tweedlie",
+      "Email": "dione.tweedlie@lazz.com",
+      "Phone": "374-(954)488-9771",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST022",
+      "Customer Name": "Dalton Hatherill",
+      "Email": "dalton.hatherill@centizu.com",
+      "Phone": "231-(544)896-2818",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST023",
+      "Customer Name": "Mason Cattini",
+      "Email": "mason.cattini@fivechat.com",
+      "Phone": "39-(979)617-5679",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST024",
+      "Customer Name": "Norah Couvert",
+      "Email": "norah.couvert@thoughtbeat.com",
+      "Phone": "92-(968)758-1958",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST025",
+      "Customer Name": "Nessy Kinny",
+      "Email": "nessy.kinny@avamm.com",
+      "Phone": "1-(516)240-2366",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST026",
+      "Customer Name": "Daisey Swinney",
+      "Email": "daisey.swinney@blogpad.com",
+      "Phone": "86-(833)329-4949",
+      "Loyalty": "Bronze"
+    },
+    {
+      "Customer ID": "CUST027",
+      "Customer Name": "Randie Crocetti",
+      "Email": "randie.crocetti@agivu.com",
+      "Phone": "46-(487)185-6109",
+      "Loyalty": "Gold"
+    },
+    {
+      "Customer ID": "CUST028",
+      "Customer Name": "Whitney Delgardillo",
+      "Email": "whitney.delgardillo@zoomdog.com",
+      "Phone": "86-(124)664-6824",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST029",
+      "Customer Name": "Maridel Dangerfield",
+      "Email": "maridel.dangerfield@twitterbeat.com",
+      "Phone": "965-(428)772-4402",
+      "Loyalty": "Silver"
+    },
+    {
+      "Customer ID": "CUST030",
+      "Customer Name": "Mathilde Harmon",
+      "Email": "mathilde.harmon@dazzlesphere.com",
+      "Phone": "63-(423)260-6268",
+      "Loyalty": "Gold"
+    }
+  ]
+  
