@@ -4,8 +4,9 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/React-Web-Sedap/', 
   plugins: [
-    react(), 
+    react(),
     tailwindcss(),
-  ]
+  ],
 })
