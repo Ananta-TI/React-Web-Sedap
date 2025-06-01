@@ -77,4 +77,4 @@ Pull request dan saran perbaikan sangat diterima!
 
 ## 📄 Lisensi
 
-MIT License © 2025 Ananta Firdaus
+MIT License © 2025 Ananta
